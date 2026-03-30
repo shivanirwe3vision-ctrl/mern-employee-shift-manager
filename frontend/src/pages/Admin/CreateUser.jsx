@@ -50,7 +50,7 @@ const CreateUsers = () => {
         toast.error(error.response.data.message);
       } else {
         toast.error(
-          "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
+          "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
         );
       }
     }
@@ -62,7 +62,7 @@ const CreateUsers = () => {
         <h3 className="text-xl font-semibold text-black">
           Teammitglied erstellen
         </h3>
-        <p className="text-sx text-slate-700 mt-[5px] mb-6">
+        <p className="text-sx text-slate-700 mt-1.25 mb-6">
           Bitte geben Sie die Details ein
         </p>
 

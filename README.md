@@ -42,6 +42,7 @@
 - **Recharts**
 - **Axios** for API communication
 - **Vite** for blazing-fast development
+- **React Compiler** for optimize React applications
 
 ### Backend
 
@@ -78,8 +79,8 @@ npm start
 
 ```bash
 cd ../frontend
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 ## ✨ What I Learned
@@ -99,6 +100,7 @@ While developing this project, I deepened my understanding of:
 - [Tailwind CSS](https://tailwindcss.com/docs)
 - [Express.js](https://expressjs.com/)
 - [MongoDB Docs](https://www.mongodb.com/docs/)
+- [React Compiler](https://react.dev/learn/react-compiler)
 
 ## 🤝 Acknowledgments
 
